@@ -35,7 +35,7 @@ To use the sync feature, ensure you have the [Task Link Manager Backend](../task
 1.  Click the **Sync** icon in the extension popup.
 2.  The extension will negotiate with the server to find the latest version of each task.
 3.  Newer local changes are pushed to the server, and newer server changes are pulled to your browser.
-
+video: https://youtu.be/_U2FWmfxCPg
 ## 📄 License
 
 This project is licensed under the ISC License.
